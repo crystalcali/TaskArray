@@ -1,10 +1,10 @@
 # TaskArray
-
+Задача от @cali_lil
 ## Установка
 
 Чтобы установить пакет `TaskArray`, выполните следующую команду в Julia REPL:
 
-"julia"
+'''julia
 using Pkg
 Pkg.add("https://github.com/crystalcali/TaskArray.git")
 using TaskArray
